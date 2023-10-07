@@ -1,0 +1,3 @@
+hello i am a sample file. this is upper case characters.
+
+AND THIS IS LOWER CASE CHARACTERS.ÿ
